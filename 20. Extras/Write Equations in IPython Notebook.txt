@@ -1,0 +1,3 @@
+Please refer these links, to write the equations in python notebook
+https://stackoverflow.com/questions/13208286/how-to-write-latex-in-ipython-notebook
+http://nbviewer.jupyter.org/github/ipython/ipython/blob/2.x/examples/Notebook/Display%20System.ipynb#LaTeX
